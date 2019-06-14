@@ -186,11 +186,7 @@
 				
 			
 
-			<!--Regular if21-->
-
-			<!--Regular if22-->
-
-			<!--Regular if23-->
+			
 
 		</div>
 		</div>
